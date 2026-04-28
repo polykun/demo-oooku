@@ -1,0 +1,1 @@
+import{N as t,a as c,c as l,I as n,H as p,ae as e}from"./CYMkI1Z4.js";const u={base:"border-t border-default my-12"},f={__name:"Hr",props:{class:{type:null,required:!1}},setup(s){const a=s,r=t(),o=p(()=>e({extend:e(u),...r.uiPro?.prose?.hr||{}}));return(m,i)=>(c(),l("hr",{class:n(o.value({class:a.class}))},null,2))}};export{f as default};
