@@ -1,0 +1,1 @@
+import{r as a}from"./L-gmFmpa.js";import t from"./c0-D_ZK4.js";import{M as e,a as n,p as s,w as c,e as p}from"./CoHS3s7I.js";const l={__name:"Caution",setup(i){const o=e();return(r,f)=>(n(),s(t,{color:"error",icon:p(o).ui.icons.caution},{default:c(()=>[a(r.$slots,"default",{mdcUnwrap:"p"})]),_:3},8,["icon"]))}};export{l as default};
