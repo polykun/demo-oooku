@@ -1,1 +1,0 @@
-import{M as t,a as c,c as l,H as n,G as p,ad as s}from"./CfQGIRSU.js";const u={base:"border-t border-default my-12"},f={__name:"Hr",props:{class:{type:null,required:!1}},setup(e){const a=e,r=t(),o=p(()=>s({extend:s(u),...r.uiPro?.prose?.hr||{}}));return(m,d)=>(c(),l("hr",{class:n(o.value({class:a.class}))},null,2))}};export{f as default};
