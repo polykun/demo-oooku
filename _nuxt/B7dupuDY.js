@@ -1,1 +1,0 @@
-import{N as n,a as c,c as r,Q as p,I as u,H as i,ae as s}from"./CxyxZttU.js";const m={base:"my-1.5 ps-1.5 leading-7 [&>ul]:my-0"},_={__name:"Li",props:{class:{type:null,required:!1}},setup(e){const a=e,l=n(),o=i(()=>s({extend:s(m),...l.uiPro?.prose?.li||{}}));return(t,d)=>(c(),r("li",{class:u(o.value({class:a.class}))},[p(t.$slots,"default")],2))}};export{_ as default};
