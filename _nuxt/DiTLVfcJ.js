@@ -1,1 +1,0 @@
-import{u as n,g as e}from"./QX87-DO0.js";import{d as r,o as s,n as i}from"./CYMkI1Z4.js";import"./BFjJkb7c.js";import"./19iDTPov.js";const g=r({__name:"logout",setup(u){const{logout:o}=n();return s(async()=>{const t=e(),{data:a,error:p}=await t.POST("/auth/logout",{});o(),await i("/")}),(t,a)=>null}});export{g as default};
